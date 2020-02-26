@@ -1,18 +1,13 @@
-# Clipboard
+# clipboard.js
 
-> Copy text to clipboard.
+clipboard.js is a JavaScript library to copy text to clipboard.
+
+## Installation
+
+Add [`clipboard.js`](scripts/clipboard.js) to your project.
 
 ## Usage
 
 ``` javascript
-Clipboard.copy('Text')
+Clipboard.copy('Tchou')
 ```
-
-More examples at [Krabby].
-
-## References
-
-- [Create a keyboard interface to the web]
-
-[Krabby]: https://krabby.netlify.com
-[Create a keyboard interface to the web]: https://alexherbo2.github.io/blog/chrome/create-a-keyboard-interface-to-the-web/
