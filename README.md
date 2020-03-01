@@ -4,7 +4,7 @@ clipboard.js is a JavaScript library to copy text to clipboard.
 
 ## Installation
 
-Add [`clipboard.js`](scripts/clipboard.js) to your project.
+Add [`clipboard.js`](src/clipboard.js) to your project.
 
 ## Usage
 
